@@ -1,15 +1,9 @@
 body, html{
-    background-color: #e6f8b7;
-}
-div{ 
-
-border: 5px double #abca5e;
-
+    background-color: #e6f7ba;
 }
 
-p{
-    border: 5px double #020300;
-}
+
+
 
 h1{
     border: 5px double #ffffff;
@@ -20,9 +14,38 @@ h1{
 }
 .card-imagem{
     margin-top:25px;
-    margin-left:30px;
+    margin-left:10px;
     margin-right:10px;
-    margin-bottom:100px;
+    margin-bottom:25px;
     border: 3px double #5f4e2f;
 }
+.card-botao{
+    width: 100%;
+    padding: 15px 0;
+    background-color: #6d9114;
+    color: #000000;
+    font-family: Arial;
+    font-weight: bold;
+}
+.card-descricao{
+    font-family: Arial; /*Tipo da fonte*/
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    text-align: center; /*alinha o texto no centro*/
 
+
+}
+.card-preco{
+    font-family: impact;
+    font-size: 25px;
+    color: #6d9114;
+    margin-bottom: 45px;
+    padding-left: 10%;
+    text-align: ;
+}
+
+}
